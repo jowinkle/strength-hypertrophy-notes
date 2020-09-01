@@ -1,4 +1,4 @@
-*TRAINING STALENESS
+*TRAINING STALENESS*
 
 -fundamental boredom with current training
 -workouts can be going well
